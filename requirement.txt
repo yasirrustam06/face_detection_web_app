@@ -1,0 +1,11 @@
+Packages required For this projects..
+
+1...   python version version == 3.9
+2...   cvzone
+3...   opencv-python
+4..    stremlit
+
+
+
+
+
